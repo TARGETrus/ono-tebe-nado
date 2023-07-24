@@ -8,6 +8,17 @@ body {
   min-width: 1100px;
   margin: 0;
   font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a {
+  text-decoration: none;
+}
+
+address {
+  font-style: normal;
 }
 
 h1,
